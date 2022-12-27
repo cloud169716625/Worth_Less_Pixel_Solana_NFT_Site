@@ -1,0 +1,26 @@
+canvas {
+  display: block;
+  margin: 24px auto;
+}
+
+p,
+h1 {
+  font-family: "brandon-grotesque", "Brandon Grotesque", "Source Sans Pro",
+    "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue",
+    Arial, sans-serif;
+  text-align: center;
+}
+
+a,
+a:active,
+a:visited,
+a:hover {
+  color: #60c1da;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.imageTest div canvas {
+  width: "100%" !important;
+  height: "100%" !important;
+}

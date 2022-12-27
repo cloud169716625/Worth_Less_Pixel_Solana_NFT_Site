@@ -1,0 +1,30 @@
+body {
+  margin: unset;
+}
+
+#toolbar {
+  height: 100px;
+}
+
+#gantt {
+  height: 100%;
+}
+
+.baseline {
+  position: absolute;
+  border-radius: 2px;
+  z-index: 0;
+  opacity: 0.3;
+  height: 12px;
+  background: #6dadf0;
+  border: 1px solid #4a6bf8;
+}
+.gantt_cell {
+  text-align: left !important;
+}
+.gantt_last_cell {
+  visibility: hidden !important;
+}
+.gantt_grid_head_add .gantt_last_cell {
+  visibility: hidden !important;
+}
