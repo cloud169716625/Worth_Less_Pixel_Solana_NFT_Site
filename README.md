@@ -1,4 +1,4 @@
-# WorthlessPixels NFT Mint Site
+# WorthlessPixels NFT Mint Site(React.js | Three.js)
 
 The WorthlessPixels NFT project is a modified [Candy-Machine-Mint](https://github.com/exiled-apes/candy-machine-mint) frontend that works with the latest Candy Machine V2 program on Solana. 
 
